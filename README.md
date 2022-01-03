@@ -15,20 +15,22 @@ Essa aplicação tem o objetivo de mostrar os repositórios da Rocketseat consum
 
 ## :rocket: Executando o projeto
 
-Clonando o repositório
+1.Clonando o repositório
 
 ```bash
 git clone https://github.com/Felipefmv/Github-Explorer
 ```
 
-Para instalar rode
+2.Para instalar rode
 
 ```
 yarn
 ```
 
-Concluindo a instalação rode
+3.Concluindo a instalação rode
 
 ```
 yarn dev
 ```
+
+4.Acesse http://localhost:8080/
